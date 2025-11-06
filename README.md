@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Haffizuddin! I’m a software engineering student and an AI and data science mentor at TechFusion in Gilgit, Pakistan. <br>I'm passionate about turning data into actionable insights and solving complex challenges with machine learning, natural language processing, and computer vision. <br>My focus is on building practical, innovative solutions that empower data-driven decision-making. <br>From data mining to visualization, I'm always excited to learn and share knowledge that drives technology forward. <br>Let’s connect and explore the future of AI and data science together!
+I'm Haffizuddin! I’m a software engineering student and an AI and data science mentor at Silicon Global Technologies in Gilgit, Pakistan. <br>I'm passionate about turning data into actionable insights and solving complex challenges with machine learning, natural language processing, and computer vision. <br>My focus is on building practical, innovative solutions that empower data-driven decision-making. <br>From data mining to visualization, I'm always excited to learn and share knowledge that drives technology forward. <br>Let’s connect and explore the future of AI and data science together!
 
 
 ## 🌐 Socials:
